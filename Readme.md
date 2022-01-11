@@ -8,7 +8,7 @@
 - [MongoDB](https://www.npmjs.com/package/mongodb)
 - [Node Telegram Bot API](https://www.npmjs.com/package/node-telegram-bot-api)
 
-#### The main idea ####
+#### The main idea: ####
 1. Initiate command from Telegram Application.
 2. Parse crypto price data from web.
 3. Put it in the database.
