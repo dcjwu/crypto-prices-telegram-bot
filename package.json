@@ -1,0 +1,27 @@
+{
+  "name": "tgbotapp",
+  "version": "1.0.0",
+  "description": "Telegram Bot for Crpyto Notifications",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "js",
+    "javscript",
+    "crpyto"
+  ],
+  "author": "AK kkucenko.aleksejs@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.0.1",
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.12"
+  }
+}
